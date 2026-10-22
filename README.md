@@ -2,7 +2,6 @@
 One of my favorite anime, especially when I was growing up, was Naruto, so I decided to design CAD models of the forehead protectors they use. This features all 5 great shinobi villages & a rogue alternate for each, with a slash.
 
 ## Assembly:
----
 6x 1-in 10mm brass fasteners. 
 
 To attach these to a fabric of your choice, use 1-inch (10 mm) brass fasteners. Insert in each hole, poke through your fabric, and spread the prongs. 
