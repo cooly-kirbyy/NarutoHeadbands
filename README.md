@@ -6,17 +6,12 @@ This was designed in Onshape and meant to be 3-D printed! However, I do not own 
 
 # Images 
 ### Leaf Village: 
-!(assets/leaf.png) 
-!(assets/leaf-rouge.png)
+![picture of leaf headband](assets/leaf.png) ![picture of leaf rouge headband](assets/leaf-rouge.png)
 ### Sand Village: 
-!(assets/sand.png) 
-!(assets/sand-rouge.png)
+![picture of sand headband](assets/sand.png) ![picture of sand rouge headband](assets/sand-rouge.png)
 ### Mist Village:
-!(assets/mist.png) 
-!(assets/mist-rouge.png)
+![picture of mist headband](assets/mist.png) ![picture of mist rouge headband](assets/mist-rouge.png)
 ### Cloud Village:
-!(assets/cloud.png) 
-!(assets/cloud-rouge.png)
+![picture of cloud headband](assets/cloud.png) ![picture of cloud rouge headband](assets/cloud-rouge.png)
 ### Stone Village: 
-!(assets/stone.png) 
-!(assets/stone-rouge.png)
+![picture of stone headband](assets/stone.png) ![picture of stone rouge headband](assets/stone-rouge.png)
